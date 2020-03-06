@@ -40,3 +40,5 @@ github_info:
 # Compress Sass
 sass:
   style: compressed
+  
+remote_theme: 18f/uswds-jekyll
